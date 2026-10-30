@@ -39,9 +39,12 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 <img width="667" height="291" alt="image" src="https://github.com/user-attachments/assets/3a8feaf2-add6-4d8c-b651-efc1a7ebbb91" />
 
 ## Output graph
-
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/6d2cb744-c54d-4453-9563-6599bd82b363" />
 
 ## Simulated Output waveform
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9bfb7137-4f60-4bd1-a980-1612481bc18e" />
 
+## RESULT.
+Torque Speed Characteristics of DC Series Motor is analysed and simulated
 
 ## RESULT.
